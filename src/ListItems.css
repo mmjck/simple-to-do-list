@@ -1,0 +1,25 @@
+.list {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    width: 500px;
+    background-color: #bf07ac;
+    height: 60px;
+    margin: 20px auto;
+    border-radius: 5px;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.list p{
+    padding:  10px;
+}
+
+.list p span {
+    cursor: pointer;
+}
+
+.faicons {
+    margin: 0 5px;
+    font-size: 15px;
+}
